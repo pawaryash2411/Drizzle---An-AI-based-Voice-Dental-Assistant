@@ -1,0 +1,15 @@
+# robots.txt for Drizzle AI Voice Dental Assistant
+
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location (update with your actual domain)
+Sitemap: https://drizzle-ai.com/sitemap.xml
+
+# Crawl-delay (optional, adjust as needed)
+# Crawl-delay: 1
+
